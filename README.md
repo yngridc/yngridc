@@ -4,7 +4,6 @@ Bem-Vindo(a) ao meu perfil do GitHub, aqui poderá acompanhar toda minha evoluç
 
  <div>
    <a href="https://github.com/yngridc">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=yngridc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngridc&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
