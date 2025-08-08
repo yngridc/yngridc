@@ -28,7 +28,7 @@ Bem-Vindo(a) ao meu perfil do GitHub, aqui poderá acompanhar toda minha evoluç
 <div> 
   <a href="https://www.instagram.com/dhymedeiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dhyks1310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yngrid-c-a19a04264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=" http://linkedin.com/in/yngrid-chaves-a19a04264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>
