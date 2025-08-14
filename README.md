@@ -1,6 +1,6 @@
 ## Yngrid Chaves
 
-Bem-Vindo(a) ao meu perfil do GitHub, aqui poderá acompanhar toda minha evolução nesse mundo mágico. Me chamo Yngrid e estou cursando Análise e desenvolvimento de sistemas e venho buscando sempre agregar meus conhecimentos além da sala de aula, fazendo cursos e bootcamps. 
+Bem-Vindo(a) ao meu perfil do GitHub, aqui poderá acompanhar toda minha evolução nesse mundo mágico. Me chamo Yngrid e acabei de me formar em Análise e desenvolvimento de sistemas e venho buscando sempre agregar meus conhecimentos além da sala de aula, fazendo cursos e bootcamps. 
 
  <div>
    <a href="https://github.com/yngridc">
